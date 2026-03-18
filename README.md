@@ -1,6 +1,6 @@
 # Hi, I'm Danny 👋
 
-### 🐯 Featured Project: [TigerTunes](https://github.com/dannyherrmann/Tiger-Tunes)
+### 🐯 Featured Project: [TigerTunes](https://github.com/dannyherrmann/TigerTunes)
 **The ultimate bridge for vintage PowerPC Macs.** Most people let their G3 and G4 Macs collect dust because modern web encryption (TLS 1.3) and streaming protocols are too heavy for their processors. I built **TigerTunes** to solve this.
 
 * **The Goal:** Seamless Spotify Connect and AirPlay on Mac OS X Tiger/Leopard.
