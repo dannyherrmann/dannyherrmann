@@ -1,20 +1,17 @@
-### Hi there 👋
+# Hi, I'm Danny 👋
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyherrmann)](https://github.com/anuraghazra/github-readme-stats)
+### 🐯 Featured Project: [TigerTunes](https://github.com/dannyherrmann/Tiger-Tunes)
+**The ultimate bridge for vintage PowerPC Macs.** Most people let their G3 and G4 Macs collect dust because modern web encryption (TLS 1.3) and streaming protocols are too heavy for their processors. I built **TigerTunes** to solve this.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyherrmann)](https://github.com/anuraghazra/github-readme-stats)
+* **The Goal:** Seamless Spotify Connect and AirPlay on Mac OS X Tiger/Leopard.
+* **The Magic:** A native Swift "Bridge" handles the modern heavy lifting, streaming raw PCM to a native Objective-C client on the legacy Mac.
+* **The Result:** Bit-perfect audio at **< 5% CPU usage** on a 20-year-old iMac.
 
-<!--
-**dannyherrmann/dannyherrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Interests
+* **Modern:** Swift, macOS AppKit/SwiftUI, Go, Python.
+* **Legacy:** Objective-C, Cocoa, Carbon, and PowerPC Architecture.
+* **Focus:** Audio engineering, network protocols, and hardware preservation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
